@@ -1,0 +1,28 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env
+
+# Data & output files
+*.csv
+*.xlsx
+*.json
+*.zip
+outputs/
+figures/
+models/
+
+# OS & IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
